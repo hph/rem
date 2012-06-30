@@ -84,4 +84,5 @@ even though it was just deleted.
 
 For more help, try executing `rem -h`.
 
-Note: the "merge" (-m, --merge) option is available even though -h lists it.
+Note: the "merge" (-m, --merge) option is unavailable even though `rem -h`
+names it.
